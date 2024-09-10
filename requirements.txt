@@ -1,0 +1,11 @@
+langchain
+sentence-transformers
+langchain-huggingface
+transformers
+langchain-community
+pypdf
+tiktoken
+huggingface_hub
+chromadb
+lark
+flask
