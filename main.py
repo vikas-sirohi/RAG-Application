@@ -74,7 +74,7 @@ qa_r = ConversationalRetrievalChain.from_llm(
     memory=memory
     )
 
-# -------Press exit to stop the conversation-----------
+# -------Enter "exit" to stop the conversation-----------
 answering  = True
 while answering:
 
